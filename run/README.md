@@ -8,4 +8,4 @@ This directory should be empty. You should use it to:
 * Perform the MD production run
 * Perform the analysis with the relevant built-in GROMACS tools
 
-as detailed in Juputer Notebook [03_Running_an_MD_simulation.ipynb](https://github.com/bigginlab/OxCompBio/tree/master/tutorials/MD/03_Running_an_MD_simulation.ipynb).
+as detailed in Juputer Notebook 03_Running_an_MD_simulation.ipynb.
