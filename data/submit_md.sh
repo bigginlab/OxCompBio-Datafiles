@@ -1,4 +1,5 @@
 #!/bin/bash
+#SBATCH --partition=htc,htc-nova
 #SBATCH --reservation=training
 #SBATCH --gres=gpu:1
 #SBATCH --ntasks-per-node=1
